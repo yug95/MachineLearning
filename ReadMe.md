@@ -5,3 +5,5 @@ in future i will more and more link papers and document related to new learning.
 Hypothesis testing explanation follow medium article - https://medium.com/@yugagrawal95/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce
 
 K-means clustering using seaborn visualization check - https://www.kaggle.com/yugagrawal95/k-means-clustering-using-seaborn-visualization
+
+Product Recommendation using collaborative filtering - using User-User and Item-Item approach.
