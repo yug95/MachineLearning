@@ -6,4 +6,6 @@ Hypothesis testing explanation follow medium article - https://medium.com/@yugag
 
 K-means clustering using seaborn visualization check - https://www.kaggle.com/yugagrawal95/k-means-clustering-using-seaborn-visualization
 
+RFM Analysis using Python - https://www.kaggle.com/yugagrawal95/rfm-analysis
+
 Product Recommendation using collaborative filtering - using User-User and Item-Item approach.
