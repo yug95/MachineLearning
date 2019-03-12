@@ -11,3 +11,4 @@ RFM Analysis using Python - https://www.kaggle.com/yugagrawal95/rfm-analysis
 Market Basket Analysis using Apriori - https://www.kaggle.com/yugagrawal95/market-basket-analysis-apriori-in-python 
 
 Product Recommendation using collaborative filtering - using User-User and Item-Item approach.
+https://www.kaggle.com/yugagrawal95/collaborative-filtering
