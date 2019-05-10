@@ -14,3 +14,6 @@ Product Recommendation using collaborative filtering - using User-User and Item-
 https://www.kaggle.com/yugagrawal95/collaborative-filtering
 
 Scale machine learning using pyspark on titanic dataset using pipeline - https://github.com/yug95/MachineLearning/tree/master/Spark-ml
+
+Deploy scale model built in pyspark using Flask webapp -
+https://github.com/yug95/MachineLearning/tree/master/flask_app_deployment
