@@ -97,11 +97,21 @@ class Indego(BaseEstimator, TransformerMixin):
             dataset['month'] = dataset.start_time.dt.month
             dataset['year'] = dataset.start_time.dt.year
             dataset['day_of_week'] = dataset.start_time.dt.dayofweek
-
+            dataset['quarter'] = dataset.start_time.dt.quarter
             return dataset
+
+        def add_temp_variable(df):
+            # Aug -nov : summer
+            # may - june -july : rainy 
+            # dec - april - winter 
+            df['temprature'] = 0
+            df.loc[(df['month']>=1) & (df['month']<=4),'temprature'] = 1
+            df.loc[(df['month']>=5) & (df['month']<=8),'temprature'] = 2
+            df.loc[(df['month']>=9) & (df['month']<=12),'temprature'] = 3
+            return df
        
         print("in transformer method")
-        #df = time_convert(df,'start_time')
+        df = time_convert(df,'start_time')
         df.set_index('trip_id',inplace=True)
         df = station_cleaning(df,['start_station','start_station_id'],'start_station_complete')
         df = station_cleaning(df,['end_station','end_station_id'],'end_station_complete')
@@ -113,7 +123,8 @@ class Indego(BaseEstimator, TransformerMixin):
         df = convert_data_type(df,['start_lat','start_lon','end_lat','end_lon'],float)
         df = change_lang_lat_value(df)
         df['distance'] = calculate_distance(df.start_lat, df.start_lon, df.end_lat, df.end_lon)
-        #df = add_new_date_time_features(df)
+        df = add_new_date_time_features(df)
+        df = add_temp_variable(df)
         df = convert_data_type(df,['start_station_complete','end_station_complete','bike_id'],float)
         drop_list = ['bike_type','passholder_type','start_time','end_time','end_lat','end_lon','start_lat','start_lon']
         df.drop(columns = drop_list,axis=1,inplace=True)        
