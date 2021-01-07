@@ -12,10 +12,12 @@ Here is some of the quick link through which you can refer and detailed version 
 
 * Market Basket Analysis using Apriori - https://www.kaggle.com/yugagrawal95/market-basket-analysis-apriori-in-python 
 
-* Product Recommendation using collaborative filtering - using User-User and Item-Item approach.
-https://www.kaggle.com/yugagrawal95/collaborative-filtering
+* Product Recommendation using collaborative filtering - using User-User and Item-Item approach - https://www.kaggle.com/yugagrawal95/collaborative-filtering
 
 * Scale machine learning using pyspark on titanic dataset using pipeline - https://github.com/yug95/MachineLearning/tree/master/Spark-ml
 
-* Deploy scale model built in pyspark using Flask webapp -
-https://github.com/yug95/MachineLearning/tree/master/flask_app_deployment
+* Deploy scale model built in pyspark using Flask webapp - https://github.com/yug95/MachineLearning/tree/master/flask_app_deployment
+
+* White paper on Business impact of Covid-19 on Production & Manufacturing - https://www.affineanalytics.com/business-impacts-of-covid-19-on-production-manufacturing/
+
+* rottentomatoes.com, Movie Tomatometer score Scraping code - https://www.kaggle.com/yugagrawal95/rotten-tomatoes-movie-tometometer-score-scraping?scriptVersionId=51315474
