@@ -21,3 +21,5 @@ Here is some of the quick link through which you can refer and detailed version 
 * White paper on Business impact of Covid-19 on Production & Manufacturing - https://www.affineanalytics.com/business-impacts-of-covid-19-on-production-manufacturing/
 
 * rottentomatoes.com, Movie Tomatometer score Scraping code - https://www.kaggle.com/yugagrawal95/rotten-tomatoes-movie-tometometer-score-scraping?scriptVersionId=51315474
+
+* Ad-Stock Calculation for Media Spend ( Market Mix Model ) - https://www.kaggle.com/yugagrawal95/media-ad-stock-calculation-code?scriptVersionId=51346820
