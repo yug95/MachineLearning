@@ -23,3 +23,5 @@ Here is some of the quick link through which you can refer and detailed version 
 * rottentomatoes.com, Movie Tomatometer score Scraping code - https://www.kaggle.com/yugagrawal95/rotten-tomatoes-movie-tometometer-score-scraping?scriptVersionId=51315474
 
 * Ad-Stock Calculation for Media Spend ( Market Mix Model ) - https://www.kaggle.com/yugagrawal95/media-ad-stock-calculation-code?scriptVersionId=51385152
+
+* Timeseries Forecasting using SARIMA (Seasonal Arima) Method - https://www.kaggle.com/yugagrawal95/time-series-forecast-using-sarima-technique
