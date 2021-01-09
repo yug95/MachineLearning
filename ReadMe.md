@@ -25,3 +25,5 @@ Here is some of the quick link through which you can refer and detailed version 
 * Ad-Stock Calculation for Media Spend ( Market Mix Model ) - https://www.kaggle.com/yugagrawal95/media-ad-stock-calculation-code?scriptVersionId=51456575
 
 * Timeseries Forecasting using SARIMA (Seasonal Arima) Method - https://www.kaggle.com/yugagrawal95/time-series-forecast-using-sarima-technique
+
+* Timeseries Forecasting using structural time series method by Tensorflow - https://www.kaggle.com/yugagrawal95/tensorflow-strcutural-timeseries-forecast?scriptVersionId=51461325
