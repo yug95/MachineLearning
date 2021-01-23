@@ -29,3 +29,5 @@ Here is some of the quick link through which you can refer and detailed version 
 * Timeseries Forecasting using structural time series method by Tensorflow - https://www.kaggle.com/yugagrawal95/tensorflow-strcutural-timeseries-forecast?scriptVersionId=51461325
 
 * Timeseries Analysis using Light Gradient Boosting Machine LGBM - https://www.kaggle.com/yugagrawal95/multivariate-timeseries-analysis-by-lgbm?scriptVersionId=51462812
+
+* Sentiment Analysis using Logistic Regression by leveraging NLTK - https://www.kaggle.com/yugagrawal95/sentiment-analysis-using-logistic-regression?scriptVersionId=52508951
