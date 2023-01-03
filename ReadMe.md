@@ -31,3 +31,5 @@ Here is some of the quick link through which you can refer and detailed version 
 * Timeseries Analysis using Light Gradient Boosting Machine LGBM - https://www.kaggle.com/yugagrawal95/multivariate-timeseries-analysis-by-lgbm?scriptVersionId=51462812
 
 * Sentiment Analysis using Logistic Regression by leveraging NLTK - https://www.kaggle.com/yugagrawal95/sentiment-analysis-using-logistic-regression?scriptVersionId=52508951
+
+* Hidden and Interesting odds of Machine learning - https://medium.com/@yugagrawal95/hidden-and-interesting-odds-of-machine-learning-759d1fd3fe26
