@@ -33,3 +33,7 @@ Here is some of the quick link through which you can refer and detailed version 
 * Sentiment Analysis using Logistic Regression by leveraging NLTK - https://www.kaggle.com/yugagrawal95/sentiment-analysis-using-logistic-regression?scriptVersionId=52508951
 
 * Hidden and Interesting odds of Machine learning - https://medium.com/@yugagrawal95/hidden-and-interesting-odds-of-machine-learning-759d1fd3fe26
+
+* Marketing Mix Modelling: What Drives Your ROI? - https://medium.com/@yugagrawal95/marketing-mix-modelling-what-drives-your-roi-191402f8e683
+
+* Price Elasticity: How Vulnerable Is Your Product In The Market? - https://medium.com/@yugagrawal95/price-elasticity-how-vulnerable-is-your-product-in-the-market-b11067b83f4a
